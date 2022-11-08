@@ -1,0 +1,15 @@
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\obj\Debug\net6.0\ex4.csproj.AssemblyReference.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\obj\Debug\net6.0\ex4.GeneratedMSBuildEditorConfig.editorconfig
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\obj\Debug\net6.0\ex4.AssemblyInfoInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\obj\Debug\net6.0\ex4.AssemblyInfo.cs
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\obj\Debug\net6.0\ex4.csproj.CoreCompileInputs.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\bin\Debug\net6.0\ex4.exe
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\bin\Debug\net6.0\ex4.deps.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\bin\Debug\net6.0\ex4.runtimeconfig.json
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\bin\Debug\net6.0\ex4.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\bin\Debug\net6.0\ex4.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\obj\Debug\net6.0\ex4.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\obj\Debug\net6.0\refint\ex4.dll
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\obj\Debug\net6.0\ex4.pdb
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\obj\Debug\net6.0\ex4.genruntimeconfig.cache
+S:\COM\Human_Resources\01.Engineering_Tech_School\02.Internal\10 - Aprendizes\14 - Desenvolvimento de sistemas 2022\Gabrielle Fialkoski\C#\exerciciosPoo\ex4\obj\Debug\net6.0\ref\ex4.dll
