@@ -17,3 +17,4 @@ fulano.DespesasTotal[1] = dezembro;
 
 Console.WriteLine($"Despesas de Janeiro: {fulano.Total(1)}");
 Console.WriteLine($"Despesas de Dezembro: {fulano.Total(2)}");
+//aaaaaaaaaaaaaaaaaaaaaaaaaaaaa
